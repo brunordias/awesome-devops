@@ -7,6 +7,9 @@
 ### Backup
  * [restic](https://restic.net/)
  * [duplicity](http://duplicity.nongnu.org/)
+ 
+### Logging
+ * [ELK Stack](https://www.elastic.co/)
 
 ## Misc
 ### Project Badges
